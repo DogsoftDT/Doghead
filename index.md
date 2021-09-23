@@ -1,5 +1,5 @@
 # Dogsoft|狗软|Doghead
-### 欢迎来到Doghead 16 官方网页！
+### 欢迎来到Doghead官方网页！
 
 你可以进入Doghead的[爱发电](https://afdian.net/@Doghead)主页来赞助Doghead的开发！
 
@@ -7,7 +7,9 @@
 
 系统将翻天覆地地大更新！
 
-已出 doghead16-beta-1_预览1 与 doghead16-beta-1_预览2
+已出版本：
+    doghead16-beta-1_预览1
+    doghead16-beta-1_预览2
 
 敬请期待——
 
