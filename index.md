@@ -1,5 +1,5 @@
 # Doghead
-# 中文（简体）
+## 中文（简体）
 ### 欢迎来到Doghead 16 beta/预览版 发布的地方！
 
 你可以进入Doghead的[爱发电](https://afdian.net/@Doghead)主页来赞助Doghead的开发！
