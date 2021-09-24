@@ -8,8 +8,8 @@
 系统将翻天覆地地大更新！
 
 已出版本：
-    doghead16-beta-1_预览1
-    doghead16-beta-1_预览2
+
+    Doghead 16 dev-0.1
 
 敬请期待——
 
