@@ -10,6 +10,7 @@
 已出版本：
 
     Doghead 16 dev-0.1
+    Doghead 16 dev-0.2
 
 敬请期待——
 
