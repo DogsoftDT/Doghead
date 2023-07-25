@@ -5,9 +5,11 @@ display: table-cell;
 vertical-align:middle;
 }
 .warp .box{
-top: 50%;
-position: absolute;
-transform: translateY(-50%);  /* 使用css3的transform来实现 */
+display: flex;
+justify-content:center;
+align-items: center;
+/* 注意这里需要设置高度来查看垂直居中效果 */
+height: 1080px;
 }
 
 
