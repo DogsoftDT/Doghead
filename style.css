@@ -1,15 +1,12 @@
 /* 通用区域*/
 .warp{
-/* 以下属性垂直居中 */
-display: table-cell;
-vertical-align:middle;
+
 }
 .warp .box{
-display: flex;
-justify-content:center;
-align-items: center;
-/* 注意这里需要设置高度来查看垂直居中效果 */
-height: 1080px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);  /* 使用css3的transform来实现 */
 }
 
 
