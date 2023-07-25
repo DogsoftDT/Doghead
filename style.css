@@ -1,3 +1,4 @@
+/* 超链接区域*/
 a {
   text-decoration: none;
 } /* 下划线*/
@@ -16,3 +17,8 @@ a:hover {
 a:active {
   color:#40735d;
 } /* 鼠标点击时 */
+
+/* 网页背景区域*/
+background {
+  color:#f2f3f5;
+} /* 网页背景色*/
