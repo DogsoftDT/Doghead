@@ -3,6 +3,7 @@ body {
   background-color:#f2f3f5; /* 网页背景色*/
 }
 
+
 /* a 元素区域*/
 a {
   text-decoration: none;
@@ -23,3 +24,9 @@ a:hover {
 a:active {
   color:#40735d;
 } /* 鼠标点击时 */
+
+
+/* div 元素区域*/
+.divframe {
+		border:1px solid #000;
+}
