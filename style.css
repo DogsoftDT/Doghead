@@ -1,9 +1,13 @@
 /* 通用区域*/
 .warp{
-text-align:center;
+/* 以下属性垂直居中 */
+display: table-cell;
+vertical-align:middle;
 }
 .warp .box{
-display: inline-block;
+top: 50%;
+position: absolute;
+transform: translateY(-50%);  /* 使用css3的transform来实现 */
 }
 
 
