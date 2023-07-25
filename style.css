@@ -1,10 +1,10 @@
 /* 通用区域*/
 .warp{
 margin: 50px auto;
-position:relative;//设置为相对定位
+position:relative;/* 设置为相对定位*/
 }
 .warp .box{
-position:absolute;//设置为绝对定位
+position:absolute;/* 设置为绝对定位*/
 left: 50%;
 top: 50%;
 transform: translate(-50%,-50%);
