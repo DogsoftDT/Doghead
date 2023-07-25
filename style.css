@@ -1,9 +1,9 @@
-/* 网页Body区域*/
+/* Html Body 区域*/
 body {
-  background-color:#f2f3f5;
-} /* 网页背景色*/
+  background-color:#f2f3f5; /* 网页背景色*/
+}
 
-/* 超链接区域*/
+/* a 区域*/
 a {
   text-decoration: none;
 } /* 下划线*/
