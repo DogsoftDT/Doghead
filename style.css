@@ -1,12 +1,9 @@
 /* 通用区域*/
 .center{
-width: 400px;
-height: 300px;
-border: 2px solid black;
 position: absolute;
-left: 0;
 top: 0;
 bottom: 0;
+left: 0;
 right: 0;
 margin: auto;
 }
