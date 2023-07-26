@@ -1,9 +1,6 @@
 /* 通用区域*/
-.warp{
-
-}
-.warp .box{
-text-align: center;
+.center{
+/* text-align: center; 文字居中*/
 margin: auto;
 position: absolute;
 top: 50px;
