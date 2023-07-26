@@ -1,6 +1,6 @@
 /* 通用区域*/
 .center{
-/* text-align: center; 文字居中*/
+text-align: left;
 margin: auto;
 position: absolute;
 top: 50px;
