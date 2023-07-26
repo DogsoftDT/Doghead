@@ -55,3 +55,10 @@ a:active {
 .top .item a:hover {
     background-color: rgb(248,248,255);
 }
+
+
+/* footer 元素区域 */
+footer {
+    height: 50px;
+    margin-top: -50px;
+}
