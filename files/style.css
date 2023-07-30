@@ -340,7 +340,6 @@ index-1
 .widget-footer ul li a:hover { color: #3DA2EA; }
 .tiny-footer { background-color: #16191e; font-size: 12px; padding-top: 10px; padding-bottom: 10px; transform: translateZ(0); }
 .widget-footer { position: relative; padding-left: 20px; line-height: 32px; }
-.widget-footer ul li:before { font-family: 'FontAwesome'; display: block; position: absolute; left: 0; font-size: 15px; color: #778191; content: "\f105"; }
 .widget-group ul li { line-height: 1.6; margin-bottom: 8px; }
 .widget-group ul li a { font-family: 'FontAwesome'; color: #778191; font-weight: 500; }
 .widget-group ul li a i { width: 30px; }
